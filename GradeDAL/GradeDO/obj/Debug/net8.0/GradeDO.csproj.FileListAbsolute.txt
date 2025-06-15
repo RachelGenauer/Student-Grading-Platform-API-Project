@@ -1,0 +1,11 @@
+H:\Server\Project\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+H:\Server\Project\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.dll
+H:\Server\Project\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+H:\Server\Project\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+H:\Server\Project\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+H:\Server\Project\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+H:\Server\Project\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+H:\Server\Project\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.dll
+H:\Server\Project\GradeDAL\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+H:\Server\Project\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+H:\Server\Project\GradeDAL\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll

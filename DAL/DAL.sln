@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{2EBE5CFD-F513-4A9D-84CF-EF947492803A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeDO", "..\..\..\קבוצה 2\סיכום\GradeDAL\GradeDO\GradeDO.csproj", "{511E90A0-39D6-481C-9FD1-3DBCFBD2F63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBE5CFD-F513-4A9D-84CF-EF947492803A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBE5CFD-F513-4A9D-84CF-EF947492803A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBE5CFD-F513-4A9D-84CF-EF947492803A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBE5CFD-F513-4A9D-84CF-EF947492803A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511E90A0-39D6-481C-9FD1-3DBCFBD2F63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511E90A0-39D6-481C-9FD1-3DBCFBD2F63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511E90A0-39D6-481C-9FD1-3DBCFBD2F63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511E90A0-39D6-481C-9FD1-3DBCFBD2F63A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A26D77-5C3B-4A12-8E95-1689AC50D3AA}
+	EndGlobalSection
+EndGlobal

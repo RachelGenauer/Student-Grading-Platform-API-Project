@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|f:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\dal\\dal\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|solutionrelative:dal\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|f:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\dal\\dal\\models\\m_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\m_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511E90A0-39D6-481C-9FD1-3DBCFBD2F63A}|..\\..\\..\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\GradeDO.csproj|f:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedo\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511E90A0-39D6-481C-9FD1-3DBCFBD2F63A}|..\\..\\..\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\GradeDO.csproj|f:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedo\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|f:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\dal\\dal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|f:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\dal\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|f:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\dal\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EBE5CFD-F513-4A9D-84CF-EF947492803A}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "DAL\\Controllers\\GradeController.cs",
+              "ToolTip": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "DAL\\Controllers\\GradeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:13:20.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Students.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Students.cs",
+              "ToolTip": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Students.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Students.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:12:18.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\DataSource.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\DataSource.cs",
+              "ToolTip": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\DataSource.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\DataSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:12:08.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DAL\\appsettings.Development.json",
+              "ToolTip": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\appsettings.Development.json",
+              "RelativeToolTip": "DAL\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T11:59:09.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\appsettings.json",
+              "RelativeDocumentMoniker": "DAL\\appsettings.json",
+              "ToolTip": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\appsettings.json",
+              "RelativeToolTip": "DAL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T11:59:07.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M_Grade.cs",
+              "DocumentMoniker": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\Models\\M_Grade.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\M_Grade.cs",
+              "ToolTip": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\Models\\M_Grade.cs",
+              "RelativeToolTip": "DAL\\Models\\M_Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:53:56.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL",
+              "DocumentMoniker": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "F:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 3\\\u05E1\u05D9\u05DB\u05D5\u05DD\\DAL\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T11:53:37.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

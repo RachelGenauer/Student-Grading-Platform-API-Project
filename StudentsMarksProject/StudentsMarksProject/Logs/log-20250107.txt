@@ -1,0 +1,1098 @@
+2025-01-07 09:15:48.902 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 09:15:48.947 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 09:15:48.951 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 09:15:48.953 +02:00 [INF] Hosting environment: Development
+2025-01-07 09:15:48.954 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 09:15:49.334 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger - null null
+2025-01-07 09:15:49.504 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger - 301 0 null 172.6972ms
+2025-01-07 09:15:49.507 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 09:15:49.605 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 97.6587ms
+2025-01-07 09:15:49.613 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui.css - null null
+2025-01-07 09:15:49.613 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.css - null null
+2025-01-07 09:15:49.614 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui-standalone-preset.js - null null
+2025-01-07 09:15:49.614 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui-bundle.js - null null
+2025-01-07 09:15:49.614 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 09:15:49.614 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 09:15:49.614 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 09:15:49.630 +02:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-01-07 09:15:49.632 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 17.9472ms
+2025-01-07 09:15:49.636 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.css - 200 202 text/css 22.0155ms
+2025-01-07 09:15:49.641 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 27.652ms
+2025-01-07 09:15:49.651 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-01-07 09:15:49.652 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-01-07 09:15:49.662 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui.css - 200 152035 text/css 48.9502ms
+2025-01-07 09:15:49.663 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui-standalone-preset.js - 200 230007 text/javascript 48.9594ms
+2025-01-07 09:15:49.670 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-01-07 09:15:49.687 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui-bundle.js - 200 1426050 text/javascript 73.1759ms
+2025-01-07 09:15:49.704 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 90.1346ms
+2025-01-07 09:15:49.868 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 09:15:49.897 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - null null
+2025-01-07 09:15:49.903 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-01-07 09:15:49.905 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - 200 628 image/png 7.6992ms
+2025-01-07 09:15:50.027 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 159.5766ms
+2025-01-07 09:16:00.045 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/GradeManager?exe=1 - null null
+2025-01-07 09:16:00.054 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.GradeManagerController.Get (StudentsMarksProject)'
+2025-01-07 09:16:00.074 +02:00 [INF] Route matched with {action = "Get", controller = "GradeManager"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] Get(Int32) on controller StudentsMarksProject.Controllers.GradeManagerController (StudentsMarksProject).
+2025-01-07 09:16:00.102 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 09:16:00.133 +02:00 [INF] Executed action StudentsMarksProject.Controllers.GradeManagerController.Get (StudentsMarksProject) in 54.1358ms
+2025-01-07 09:16:00.136 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.GradeManagerController.Get (StudentsMarksProject)'
+2025-01-07 09:16:00.137 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/GradeManager?exe=1 - 200 null application/json; charset=utf-8 92.5794ms
+2025-01-07 09:16:47.127 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/GradeManager?exe=1&name=%22moria%22 - application/json 96
+2025-01-07 09:16:47.133 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.GradeManagerController.UpDateExe (StudentsMarksProject)'
+2025-01-07 09:16:47.138 +02:00 [INF] Route matched with {action = "UpDateExe", controller = "GradeManager"}. Executing controller action with signature Void UpDateExe(StudentsMarksProject.Modules.M_List, Int32, System.String) on controller StudentsMarksProject.Controllers.GradeManagerController (StudentsMarksProject).
+2025-01-07 09:16:47.177 +02:00 [INF] Executed action StudentsMarksProject.Controllers.GradeManagerController.UpDateExe (StudentsMarksProject) in 33.8565ms
+2025-01-07 09:16:47.179 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.GradeManagerController.UpDateExe (StudentsMarksProject)'
+2025-01-07 09:16:47.181 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/GradeManager?exe=1&name=%22moria%22 - 200 0 null 53.7486ms
+2025-01-07 09:17:37.221 +02:00 [INF] Request starting HTTP/2 PUT https://localhost:7185/api/GradeManager?StudentId=11111111&ExeNumber=1&Name=%22moria%22&Date=01%2F01%2F25&GradeNumber=100&Comment=%22GOOD%20JOB%22 - null 0
+2025-01-07 09:17:37.228 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.GradeManagerController.AddGrade (StudentsMarksProject)'
+2025-01-07 09:17:37.233 +02:00 [INF] Route matched with {action = "AddGrade", controller = "GradeManager"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddGrade(System.String, StudentsMarksProject.Modules.M_Grade) on controller StudentsMarksProject.Controllers.GradeManagerController (StudentsMarksProject).
+2025-01-07 09:17:37.241 +02:00 [INF] the student with id:11111111 added succesfully;
+2025-01-07 09:17:37.247 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2025-01-07 09:17:37.249 +02:00 [INF] Executed action StudentsMarksProject.Controllers.GradeManagerController.AddGrade (StudentsMarksProject) in 13.1582ms
+2025-01-07 09:17:37.251 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.GradeManagerController.AddGrade (StudentsMarksProject)'
+2025-01-07 09:17:37.253 +02:00 [INF] Request finished HTTP/2 PUT https://localhost:7185/api/GradeManager?StudentId=11111111&ExeNumber=1&Name=%22moria%22&Date=01%2F01%2F25&GradeNumber=100&Comment=%22GOOD%20JOB%22 - 200 0 null 32.2366ms
+2025-01-07 09:17:55.704 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/GradeManager/SHOWGRADES - null null
+2025-01-07 09:17:55.708 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.GradeManagerController.GetAllStudentFinalMarks (StudentsMarksProject)'
+2025-01-07 09:17:55.716 +02:00 [INF] Route matched with {action = "GetAllStudentFinalMarks", controller = "GradeManager"}. Executing controller action with signature System.String[] GetAllStudentFinalMarks() on controller StudentsMarksProject.Controllers.GradeManagerController (StudentsMarksProject).
+2025-01-07 09:17:55.724 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2025-01-07 09:17:55.728 +02:00 [INF] Executed action StudentsMarksProject.Controllers.GradeManagerController.GetAllStudentFinalMarks (StudentsMarksProject) in 7.1408ms
+2025-01-07 09:17:55.731 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.GradeManagerController.GetAllStudentFinalMarks (StudentsMarksProject)'
+2025-01-07 09:17:55.732 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/GradeManager/SHOWGRADES - 200 null application/json; charset=utf-8 28.6152ms
+2025-01-07 09:18:51.277 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 09:18:51.310 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 09:18:51.314 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 09:18:51.316 +02:00 [INF] Hosting environment: Development
+2025-01-07 09:18:51.317 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 09:18:51.513 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 09:18:51.689 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 179.5134ms
+2025-01-07 09:18:51.695 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 09:18:51.695 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 09:18:51.695 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 09:18:51.705 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 9.5306ms
+2025-01-07 09:18:51.705 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 10.4321ms
+2025-01-07 09:18:51.728 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.68ms
+2025-01-07 09:18:51.858 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 09:18:51.985 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 127.1726ms
+2025-01-07 09:18:56.264 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/GradeManager/SHOWGRADES - null null
+2025-01-07 09:18:56.273 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.GradeManagerController.GetAllStudentFinalMarks (StudentsMarksProject)'
+2025-01-07 09:18:56.288 +02:00 [INF] Route matched with {action = "GetAllStudentFinalMarks", controller = "GradeManager"}. Executing controller action with signature System.String[] GetAllStudentFinalMarks() on controller StudentsMarksProject.Controllers.GradeManagerController (StudentsMarksProject).
+2025-01-07 09:18:56.302 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2025-01-07 09:18:56.327 +02:00 [INF] Executed action StudentsMarksProject.Controllers.GradeManagerController.GetAllStudentFinalMarks (StudentsMarksProject) in 32.9856ms
+2025-01-07 09:18:56.330 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.GradeManagerController.GetAllStudentFinalMarks (StudentsMarksProject)'
+2025-01-07 09:18:56.332 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/GradeManager/SHOWGRADES - 200 null application/json; charset=utf-8 67.5968ms
+2025-01-07 09:19:09.602 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/GradeManager/SHOW_ALL_GRADES_AND_ALL_EXE - null null
+2025-01-07 09:19:09.619 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.GradeManagerController.GetAllGradesAndExercises (StudentsMarksProject)'
+2025-01-07 09:19:09.624 +02:00 [INF] Route matched with {action = "GetAllGradesAndExercises", controller = "GradeManager"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.List`1[System.Double]] GetAllGradesAndExercises() on controller StudentsMarksProject.Controllers.GradeManagerController (StudentsMarksProject).
+2025-01-07 09:19:09.629 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 09:19:09.639 +02:00 [INF] Executed action StudentsMarksProject.Controllers.GradeManagerController.GetAllGradesAndExercises (StudentsMarksProject) in 11.6083ms
+2025-01-07 09:19:09.643 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.GradeManagerController.GetAllGradesAndExercises (StudentsMarksProject)'
+2025-01-07 09:19:09.645 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/GradeManager/SHOW_ALL_GRADES_AND_ALL_EXE - 200 null application/json; charset=utf-8 42.7418ms
+2025-01-07 09:24:47.879 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - null null
+2025-01-07 09:24:47.884 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 09:24:47.891 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:24:47.906 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 09:24:47.910 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 15.5823ms
+2025-01-07 09:24:47.912 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 09:24:47.914 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 34.8545ms
+2025-01-07 09:27:46.499 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 09:27:46.520 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 20.7122ms
+2025-01-07 09:27:46.529 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 09:27:46.529 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 09:27:46.529 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 09:27:46.535 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 6.2592ms
+2025-01-07 09:27:46.538 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 8.9424ms
+2025-01-07 09:27:46.553 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 23.8741ms
+2025-01-07 09:27:46.618 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 09:27:46.633 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.9719ms
+2025-01-07 09:28:06.986 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/ - null null
+2025-01-07 09:28:06.992 +02:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-01-07 09:28:06.994 +02:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-01-07 09:28:06.997 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/ - 200 null text/plain; charset=utf-8 10.2293ms
+2025-01-07 09:33:16.974 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=1 - null null
+2025-01-07 09:33:16.980 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:33:16.984 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:33:16.990 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 2.3942ms
+2025-01-07 09:33:16.993 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:33:16.997 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.GradeNotExsistException: The grade with code 777 does not exist
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade(String studentId, String pass, Int32 execode) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 53
+   at lambda_method10(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 09:33:17.031 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=1 - 500 null text/plain; charset=utf-8 57.1757ms
+2025-01-07 09:33:39.009 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=11111111 - null null
+2025-01-07 09:33:39.013 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:33:39.016 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:33:39.019 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 0.4753ms
+2025-01-07 09:33:39.022 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:33:39.024 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.GradeNotExsistException: The grade with code 777 does not exist
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade(String studentId, String pass, Int32 execode) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 53
+   at lambda_method10(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 09:33:39.031 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=11111111 - 500 null text/plain; charset=utf-8 22.8977ms
+2025-01-07 09:33:46.588 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=1 - null null
+2025-01-07 09:33:46.594 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:33:46.596 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:33:46.599 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 0.3174ms
+2025-01-07 09:33:46.602 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:33:46.604 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.GradeNotExsistException: The grade with code 777 does not exist
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade(String studentId, String pass, Int32 execode) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 53
+   at lambda_method10(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 09:33:46.612 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=1 - 500 null text/plain; charset=utf-8 23.7575ms
+2025-01-07 09:35:50.914 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=111 - null null
+2025-01-07 09:35:50.918 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:35:50.921 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:35:50.925 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 0.3926ms
+2025-01-07 09:35:50.928 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:35:50.930 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.GradeNotExsistException: The grade with code 777 does not exist
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade(String studentId, String pass, Int32 execode) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 53
+   at lambda_method10(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 09:35:50.935 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=111 - 500 null text/plain; charset=utf-8 21.0235ms
+2025-01-07 09:35:59.511 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=1 - null null
+2025-01-07 09:35:59.520 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:35:59.527 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:35:59.530 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 0.2814ms
+2025-01-07 09:35:59.533 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:35:59.534 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.GradeNotExsistException: The grade with code 777 does not exist
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade(String studentId, String pass, Int32 execode) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 53
+   at lambda_method10(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 09:35:59.544 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=111111111&pass=11111111&execode=1 - 500 null text/plain; charset=utf-8 33.4546ms
+2025-01-07 09:36:25.774 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - null null
+2025-01-07 09:36:25.779 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:36:25.781 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:36:25.786 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 09:36:25.790 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 4.3936ms
+2025-01-07 09:36:25.794 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:36:25.795 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - 200 null application/json; charset=utf-8 21.1875ms
+2025-01-07 09:38:57.818 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 09:38:57.859 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 09:38:57.864 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 09:38:57.867 +02:00 [INF] Hosting environment: Development
+2025-01-07 09:38:57.868 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 09:38:58.061 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 09:38:58.223 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 163.8673ms
+2025-01-07 09:38:58.227 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 09:38:58.227 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 09:38:58.227 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 09:38:58.236 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 9.0174ms
+2025-01-07 09:38:58.240 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 12.6847ms
+2025-01-07 09:38:58.264 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.9675ms
+2025-01-07 09:38:58.309 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 09:38:58.432 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 122.6458ms
+2025-01-07 09:39:08.981 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - null null
+2025-01-07 09:39:08.989 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 09:39:09.009 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:39:09.032 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 09:39:09.057 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 43.292ms
+2025-01-07 09:39:09.060 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 09:39:09.062 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 80.4686ms
+2025-01-07 09:39:29.428 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - null null
+2025-01-07 09:39:29.444 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:39:29.450 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 09:39:29.454 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 09:39:29.456 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 3.373ms
+2025-01-07 09:39:29.459 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 09:39:29.461 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - 200 null application/json; charset=utf-8 33.4668ms
+2025-01-07 17:36:32.948 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 17:36:32.995 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 17:36:33.002 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 17:36:33.012 +02:00 [INF] Hosting environment: Development
+2025-01-07 17:36:33.017 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 17:36:40.854 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger - null null
+2025-01-07 17:36:40.996 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger - 301 0 null 142.7104ms
+2025-01-07 17:36:40.998 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 17:36:41.085 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 86.2919ms
+2025-01-07 17:36:41.095 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui.css - null null
+2025-01-07 17:36:41.095 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.css - null null
+2025-01-07 17:36:41.095 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui-bundle.js - null null
+2025-01-07 17:36:41.095 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui-standalone-preset.js - null null
+2025-01-07 17:36:41.095 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 17:36:41.095 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 17:36:41.095 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 17:36:41.108 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 13.3746ms
+2025-01-07 17:36:41.110 +02:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-01-07 17:36:41.113 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 17.8856ms
+2025-01-07 17:36:41.115 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-01-07 17:36:41.115 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-01-07 17:36:41.115 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.css - 200 202 text/css 20.1948ms
+2025-01-07 17:36:41.125 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-01-07 17:36:41.141 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui-standalone-preset.js - 200 230007 text/javascript 46.5011ms
+2025-01-07 17:36:41.141 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui.css - 200 152035 text/css 46.6167ms
+2025-01-07 17:36:41.143 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui-bundle.js - 200 1426050 text/javascript 48.3035ms
+2025-01-07 17:36:41.174 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 79.3386ms
+2025-01-07 17:36:41.340 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 17:36:41.387 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - null null
+2025-01-07 17:36:41.418 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-01-07 17:36:41.427 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - 200 628 image/png 39.9073ms
+2025-01-07 17:36:41.702 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 362.6958ms
+2025-01-07 17:37:58.017 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - null null
+2025-01-07 17:37:58.026 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 17:37:58.044 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:37:58.073 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 17:37:58.102 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 51.7729ms
+2025-01-07 17:37:58.105 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 17:37:58.106 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 89.6466ms
+2025-01-07 17:38:13.645 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - null null
+2025-01-07 17:38:13.660 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 17:38:13.664 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:38:13.667 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 17:38:13.670 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 4.1953ms
+2025-01-07 17:38:13.673 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 17:38:13.674 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - 200 null application/json; charset=utf-8 28.9937ms
+2025-01-07 17:39:33.527 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnTestGrade?studentId=11111111&pass=11111111 - null null
+2025-01-07 17:39:33.537 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject)'
+2025-01-07 17:39:33.541 +02:00 [INF] Route matched with {action = "ReturnGradeTets", controller = "ShowGrade"}. Executing controller action with signature Double ReturnGradeTets(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:39:33.545 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Double'.
+2025-01-07 17:39:33.549 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject) in 4.5102ms
+2025-01-07 17:39:33.552 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject)'
+2025-01-07 17:39:33.554 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnTestGrade?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 26.4195ms
+2025-01-07 17:42:35.245 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnFinalGrade?studentId=11111111&pass=11111111 - null null
+2025-01-07 17:42:35.252 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject)'
+2025-01-07 17:42:35.256 +02:00 [INF] Route matched with {action = "ReturnFinalGrade", controller = "ShowGrade"}. Executing controller action with signature Double ReturnFinalGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:42:35.262 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Double'.
+2025-01-07 17:42:35.264 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject) in 3.6485ms
+2025-01-07 17:42:35.266 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject)'
+2025-01-07 17:42:35.267 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnFinalGrade?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 22.3389ms
+2025-01-07 17:49:56.955 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 17:49:56.988 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 17:49:56.992 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 17:49:56.995 +02:00 [INF] Hosting environment: Development
+2025-01-07 17:49:56.997 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 17:49:57.460 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 17:49:57.605 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 145.094ms
+2025-01-07 17:49:57.610 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 17:49:57.610 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 17:49:57.615 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 17:49:57.616 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 5.7705ms
+2025-01-07 17:49:57.624 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.9464ms
+2025-01-07 17:49:57.646 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.7395ms
+2025-01-07 17:49:57.783 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 17:49:57.893 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 109.302ms
+2025-01-07 17:50:22.808 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - null null
+2025-01-07 17:50:22.818 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 17:50:22.835 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:50:22.859 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 17:50:22.886 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 45.3537ms
+2025-01-07 17:50:22.889 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 17:50:22.890 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 81.9764ms
+2025-01-07 17:53:32.628 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - null null
+2025-01-07 17:53:32.634 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 17:53:32.638 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:53:32.642 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 17:53:32.645 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 4.9352ms
+2025-01-07 17:53:32.648 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 17:53:32.649 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - 200 null application/json; charset=utf-8 20.9117ms
+2025-01-07 17:54:19.231 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=2 - null null
+2025-01-07 17:54:19.246 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 17:54:19.249 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:54:19.252 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 17:54:19.254 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 2.505ms
+2025-01-07 17:54:19.256 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 17:54:19.259 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=2 - 200 null application/json; charset=utf-8 27.2273ms
+2025-01-07 17:54:24.567 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - null null
+2025-01-07 17:54:24.571 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 17:54:24.574 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.List`1[System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:54:24.576 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 17:54:24.579 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 2.9412ms
+2025-01-07 17:54:24.581 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 17:54:24.582 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - 200 null application/json; charset=utf-8 15.7505ms
+2025-01-07 17:54:47.970 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnTestGrade?studentId=11111111&pass=11111111 - null null
+2025-01-07 17:54:47.974 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject)'
+2025-01-07 17:54:47.978 +02:00 [INF] Route matched with {action = "ReturnGradeTets", controller = "ShowGrade"}. Executing controller action with signature Double ReturnGradeTets(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:54:47.982 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Double'.
+2025-01-07 17:54:47.986 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject) in 4.5625ms
+2025-01-07 17:54:47.989 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject)'
+2025-01-07 17:54:47.990 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnTestGrade?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 20.4455ms
+2025-01-07 17:55:49.249 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnFinalGrade?studentId=11111111&pass=11111111 - null null
+2025-01-07 17:55:49.254 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject)'
+2025-01-07 17:55:49.258 +02:00 [INF] Route matched with {action = "ReturnFinalGrade", controller = "ShowGrade"}. Executing controller action with signature Double ReturnFinalGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 17:55:49.262 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Double'.
+2025-01-07 17:55:49.264 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject) in 3.0147ms
+2025-01-07 17:55:49.266 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject)'
+2025-01-07 17:55:49.267 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnFinalGrade?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 17.8033ms
+2025-01-07 18:01:29.840 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 18:01:29.874 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 18:01:29.879 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 18:01:29.880 +02:00 [INF] Hosting environment: Development
+2025-01-07 18:01:29.882 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 18:01:29.975 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:01:30.123 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 148.5924ms
+2025-01-07 18:01:30.127 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:01:30.127 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:01:30.130 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:01:30.137 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 9.7344ms
+2025-01-07 18:01:30.140 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.462ms
+2025-01-07 18:01:30.166 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.9318ms
+2025-01-07 18:01:30.296 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:01:30.421 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 125.4983ms
+2025-01-07 18:01:45.653 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=1111111&execode=1 - null null
+2025-01-07 18:01:45.662 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 18:01:45.678 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 18:01:45.699 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 15.7437ms
+2025-01-07 18:01:45.702 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 18:01:45.706 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 1111111 not exsist
+   at StudentsMarksProject.Services.PasswordManager.CheackPasswordMarnager(String password, String id) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Services\PasswordManager.cs:line 27
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade(String studentId, String pass, Int32 execode) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 47
+   at lambda_method4(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 18:01:45.738 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=1111111&execode=1 - 500 null text/plain; charset=utf-8 85.151ms
+2025-01-07 18:01:54.913 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - null null
+2025-01-07 18:01:54.922 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 18:01:54.926 +02:00 [INF] Route matched with {action = "ReturnSpecificGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnSpecificGrade(System.String, System.String, Int32) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 18:01:54.935 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 18:01:54.961 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject) in 32.0234ms
+2025-01-07 18:01:54.965 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnSpecificGrade (StudentsMarksProject)'
+2025-01-07 18:01:54.967 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnSpecificGrade?studentId=11111111&pass=11111111&execode=1 - 200 null application/json; charset=utf-8 54.1596ms
+2025-01-07 18:02:35.522 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnTestGrade?studentId=11111111&pass=11111111 - null null
+2025-01-07 18:02:35.531 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject)'
+2025-01-07 18:02:35.535 +02:00 [INF] Route matched with {action = "ReturnGradeTets", controller = "ShowGrade"}. Executing controller action with signature Double ReturnGradeTets(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 18:02:35.539 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Double'.
+2025-01-07 18:02:35.542 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject) in 3.9789ms
+2025-01-07 18:02:35.545 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject)'
+2025-01-07 18:02:35.547 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnTestGrade?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 24.6536ms
+2025-01-07 18:02:49.627 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnFinalGrade?studentId=11111111&pass=11111111 - null null
+2025-01-07 18:02:49.632 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject)'
+2025-01-07 18:02:49.636 +02:00 [INF] Route matched with {action = "ReturnFinalGrade", controller = "ShowGrade"}. Executing controller action with signature Double ReturnFinalGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 18:02:49.640 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Double'.
+2025-01-07 18:02:49.643 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject) in 3.9707ms
+2025-01-07 18:02:49.646 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnFinalGrade (StudentsMarksProject)'
+2025-01-07 18:02:49.647 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnFinalGrade?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 19.8833ms
+2025-01-07 18:03:05.406 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - null null
+2025-01-07 18:03:05.410 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 18:03:05.417 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 18:03:05.422 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-07 18:03:05.425 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 3.858ms
+2025-01-07 18:03:05.427 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 18:03:05.429 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11111111 - 200 null application/json; charset=utf-8 22.9185ms
+2025-01-07 18:03:39.802 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/StudentManager/{string studentID }?studentID=11111111 - null null
+2025-01-07 18:03:39.807 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:03:39.810 +02:00 [INF] Route matched with {action = "GetStudent", controller = "StudentManager"}. Executing controller action with signature System.String GetStudent(System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:03:39.816 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-07 18:03:39.820 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject) in 7.661ms
+2025-01-07 18:03:39.822 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:03:39.824 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/StudentManager/{string studentID }?studentID=11111111 - 200 null text/plain; charset=utf-8 21.4515ms
+2025-01-07 18:04:20.025 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/StudentManager/All student details - null null
+2025-01-07 18:04:20.030 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetAllStudentDetails (StudentsMarksProject)'
+2025-01-07 18:04:20.032 +02:00 [INF] Route matched with {action = "GetAllStudentDetails", controller = "StudentManager"}. Executing controller action with signature System.String GetAllStudentDetails() on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:04:20.035 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-07 18:04:20.037 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.GetAllStudentDetails (StudentsMarksProject) in 2.1435ms
+2025-01-07 18:04:20.039 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetAllStudentDetails (StudentsMarksProject)'
+2025-01-07 18:04:20.040 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/StudentManager/All student details - 200 null text/plain; charset=utf-8 14.9184ms
+2025-01-07 18:07:19.127 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 366
+2025-01-07 18:07:19.136 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:07:19.140 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:07:19.183 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-07 18:07:19.202 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 58.442ms
+2025-01-07 18:07:19.205 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:07:19.206 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 400 null application/problem+json; charset=utf-8 78.7165ms
+2025-01-07 18:07:58.387 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 362
+2025-01-07 18:07:58.391 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:07:58.395 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:07:58.399 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-07 18:07:58.402 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 4.6525ms
+2025-01-07 18:07:58.404 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:07:58.406 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 400 null application/problem+json; charset=utf-8 18.8901ms
+2025-01-07 18:08:39.581 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 362
+2025-01-07 18:08:39.585 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:08:39.587 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:08:39.594 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-07 18:08:39.598 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 5.5289ms
+2025-01-07 18:08:39.600 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:08:39.602 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 400 null application/problem+json; charset=utf-8 20.4332ms
+2025-01-07 18:09:22.337 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 352
+2025-01-07 18:09:22.341 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:09:22.344 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:09:22.353 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-07 18:09:22.357 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 4.0985ms
+2025-01-07 18:09:22.360 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:09:22.363 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 400 null application/problem+json; charset=utf-8 25.7417ms
+2025-01-07 18:10:04.035 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 348
+2025-01-07 18:10:04.038 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:10:04.042 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:10:04.051 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-07 18:10:04.053 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 3.0727ms
+2025-01-07 18:10:04.056 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:10:04.057 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 400 null application/problem+json; charset=utf-8 22.3171ms
+2025-01-07 18:12:33.342 +02:00 [INF] Request starting HTTP/2 PUT https://localhost:7185/api/StudentManager/update Details?NewName=44444444&NewPassword=44444444 - application/json 7
+2025-01-07 18:12:33.346 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject)'
+2025-01-07 18:12:33.349 +02:00 [INF] Route matched with {action = "Put", controller = "StudentManager"}. Executing controller action with signature Void Put(System.String, System.String, System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:12:33.353 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject) in 1.5754ms
+2025-01-07 18:12:33.356 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject)'
+2025-01-07 18:12:33.357 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id moria not exsist
+   at GradeDO.Students.UpdateDetails(String studentId, String name, String password) in H:\Server\Project\GradeDAL\GradeDO\Students.cs:line 51
+   at StudentsMarksProject.Controllers.StudentManagerController.Put(String studentId, String NewName, String NewPassword) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\StudentManagerController.cs:line 44
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.<>c__DisplayClass33_0.<WrapVoidMethod>b__0(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.VoidResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 18:12:33.386 +02:00 [INF] Request finished HTTP/2 PUT https://localhost:7185/api/StudentManager/update Details?NewName=44444444&NewPassword=44444444 - 500 null text/plain; charset=utf-8 44.2086ms
+2025-01-07 18:12:47.764 +02:00 [INF] Request starting HTTP/2 PUT https://localhost:7185/api/StudentManager/update Details?NewName=44444444&NewPassword=44444444 - application/json 10
+2025-01-07 18:12:47.768 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject)'
+2025-01-07 18:12:47.770 +02:00 [INF] Route matched with {action = "Put", controller = "StudentManager"}. Executing controller action with signature Void Put(System.String, System.String, System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:12:47.773 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject) in 0.3298ms
+2025-01-07 18:12:47.774 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject)'
+2025-01-07 18:12:47.776 +02:00 [INF] Request finished HTTP/2 PUT https://localhost:7185/api/StudentManager/update Details?NewName=44444444&NewPassword=44444444 - 200 0 null 12.2671ms
+2025-01-07 18:13:11.777 +02:00 [INF] Request starting HTTP/2 PUT https://localhost:7185/api/StudentManager/update Details?NewName=44444444&NewPassword=44444444 - application/json 10
+2025-01-07 18:13:11.785 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject)'
+2025-01-07 18:13:11.787 +02:00 [INF] Route matched with {action = "Put", controller = "StudentManager"}. Executing controller action with signature Void Put(System.String, System.String, System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:13:11.790 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject) in 0.3085ms
+2025-01-07 18:13:11.793 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject)'
+2025-01-07 18:13:11.794 +02:00 [INF] Request finished HTTP/2 PUT https://localhost:7185/api/StudentManager/update Details?NewName=44444444&NewPassword=44444444 - 200 0 null 17.8596ms
+2025-01-07 18:15:39.245 +02:00 [INF] Request starting HTTP/2 DELETE https://localhost:7185/api/StudentManager/11111111 - application/json 10
+2025-01-07 18:15:39.253 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Delete (StudentsMarksProject)'
+2025-01-07 18:15:39.257 +02:00 [INF] Route matched with {action = "Delete", controller = "StudentManager"}. Executing controller action with signature Void Delete(System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:15:39.261 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Delete (StudentsMarksProject) in 0.7057ms
+2025-01-07 18:15:39.262 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Delete (StudentsMarksProject)'
+2025-01-07 18:15:39.263 +02:00 [INF] Request finished HTTP/2 DELETE https://localhost:7185/api/StudentManager/11111111 - 200 0 null 18.9298ms
+2025-01-07 18:16:36.469 +02:00 [INF] Request starting HTTP/2 PUT https://localhost:7185/api/StudentManager/update Details?NewName=44444444&NewPassword=44444444 - application/json 10
+2025-01-07 18:16:36.473 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject)'
+2025-01-07 18:16:36.480 +02:00 [INF] Route matched with {action = "Put", controller = "StudentManager"}. Executing controller action with signature Void Put(System.String, System.String, System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:16:36.485 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject) in 0.5064ms
+2025-01-07 18:16:36.488 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Put (StudentsMarksProject)'
+2025-01-07 18:16:36.489 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 11111111 not exsist
+   at GradeDO.Students.UpdateDetails(String studentId, String name, String password) in H:\Server\Project\GradeDAL\GradeDO\Students.cs:line 51
+   at StudentsMarksProject.Controllers.StudentManagerController.Put(String studentId, String NewName, String NewPassword) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\StudentManagerController.cs:line 44
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.<>c__DisplayClass33_0.<WrapVoidMethod>b__0(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.VoidResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 18:16:36.496 +02:00 [INF] Request finished HTTP/2 PUT https://localhost:7185/api/StudentManager/update Details?NewName=44444444&NewPassword=44444444 - 500 null text/plain; charset=utf-8 27.1121ms
+2025-01-07 18:17:09.962 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 348
+2025-01-07 18:17:09.966 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:17:09.976 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:17:09.985 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-07 18:17:09.988 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 3.6216ms
+2025-01-07 18:17:09.990 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:17:09.992 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 400 null application/problem+json; charset=utf-8 29.4532ms
+2025-01-07 18:17:11.559 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 348
+2025-01-07 18:17:11.564 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:17:11.566 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:17:11.569 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-07 18:17:11.571 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 3.3232ms
+2025-01-07 18:17:11.573 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:17:11.574 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 400 null application/problem+json; charset=utf-8 15.1864ms
+2025-01-07 18:18:37.678 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:18:37.695 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 16.7174ms
+2025-01-07 18:18:37.707 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:18:37.709 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:18:37.711 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 3.2916ms
+2025-01-07 18:18:37.714 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:18:37.714 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 4.7502ms
+2025-01-07 18:18:37.739 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.6467ms
+2025-01-07 18:18:37.889 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:18:37.902 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.6239ms
+2025-01-07 18:19:04.836 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 18:19:04.887 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 18:19:04.907 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 18:19:04.910 +02:00 [INF] Hosting environment: Development
+2025-01-07 18:19:04.921 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 18:19:05.529 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:19:05.734 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 206.2926ms
+2025-01-07 18:19:05.742 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:19:05.742 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:19:05.742 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:19:05.751 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 9.494ms
+2025-01-07 18:19:05.759 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 17.3447ms
+2025-01-07 18:19:05.796 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.7586ms
+2025-01-07 18:19:05.838 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:19:05.955 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 116.8751ms
+2025-01-07 18:19:44.964 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/StudentManager/{string studentID }?studentID=11111111 - null null
+2025-01-07 18:19:44.972 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:19:44.987 +02:00 [INF] Route matched with {action = "GetStudent", controller = "StudentManager"}. Executing controller action with signature System.String GetStudent(System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:19:45.009 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-07 18:19:45.014 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject) in 20.3819ms
+2025-01-07 18:19:45.016 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:19:45.018 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/StudentManager/{string studentID }?studentID=11111111 - 200 null text/plain; charset=utf-8 53.736ms
+2025-01-07 18:23:25.072 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 395
+2025-01-07 18:23:25.079 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:23:25.083 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:23:25.136 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-07 18:23:25.157 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 71.3672ms
+2025-01-07 18:23:25.160 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:23:25.161 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 400 null application/problem+json; charset=utf-8 89.3537ms
+2025-01-07 18:24:39.079 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 397
+2025-01-07 18:24:39.083 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:24:39.090 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:24:39.108 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 14.9205ms
+2025-01-07 18:24:39.111 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:24:39.112 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 200 0 null 33.1419ms
+2025-01-07 18:26:47.854 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 18:26:47.891 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 18:26:47.895 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 18:26:47.897 +02:00 [INF] Hosting environment: Development
+2025-01-07 18:26:47.900 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 18:26:47.991 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:26:48.148 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 157.7446ms
+2025-01-07 18:26:48.153 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:26:48.153 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:26:48.159 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:26:48.160 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 7.2008ms
+2025-01-07 18:26:48.167 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.5775ms
+2025-01-07 18:26:48.205 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.6594ms
+2025-01-07 18:26:48.242 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:26:48.366 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 123.6682ms
+2025-01-07 18:27:35.006 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 18:27:35.046 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 18:27:35.051 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 18:27:35.053 +02:00 [INF] Hosting environment: Development
+2025-01-07 18:27:35.055 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 18:27:35.145 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:27:35.309 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 164.6613ms
+2025-01-07 18:27:35.311 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:27:35.311 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:27:35.311 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:27:35.320 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 9.2658ms
+2025-01-07 18:27:35.330 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 19.6648ms
+2025-01-07 18:27:35.350 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.7372ms
+2025-01-07 18:27:35.383 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:27:35.497 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.5198ms
+2025-01-07 18:27:44.534 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/StudentManager/11111111 - null null
+2025-01-07 18:27:44.542 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:27:44.558 +02:00 [INF] Route matched with {action = "GetStudent", controller = "StudentManager"}. Executing controller action with signature System.String GetStudent(System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:27:44.577 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-07 18:27:44.583 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject) in 18.8461ms
+2025-01-07 18:27:44.585 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:27:44.587 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/StudentManager/11111111 - 200 null text/plain; charset=utf-8 53.1797ms
+2025-01-07 18:28:06.666 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/StudentManager/44444444 - null null
+2025-01-07 18:28:06.672 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:28:06.674 +02:00 [INF] Route matched with {action = "GetStudent", controller = "StudentManager"}. Executing controller action with signature System.String GetStudent(System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:28:06.679 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject) in 1.853ms
+2025-01-07 18:28:06.681 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:28:06.686 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 44444444 not exsist
+   at GradeDO.Students.ShowStudentsDetails(String StudentId) in H:\Server\Project\GradeDAL\GradeDO\Students.cs:line 72
+   at StudentsMarksProject.Controllers.StudentManagerController.GetStudent(String studentID) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\StudentManagerController.cs:line 23
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 18:28:06.712 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/StudentManager/44444444 - 500 null text/plain; charset=utf-8 46.33ms
+2025-01-07 18:30:24.149 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 393
+2025-01-07 18:30:24.156 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:30:24.161 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:30:24.218 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 53.4747ms
+2025-01-07 18:30:24.221 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:30:24.222 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 200 0 null 73.6294ms
+2025-01-07 18:30:33.178 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/StudentManager/44444444 - null null
+2025-01-07 18:30:33.183 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:30:33.185 +02:00 [INF] Route matched with {action = "GetStudent", controller = "StudentManager"}. Executing controller action with signature System.String GetStudent(System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:30:33.188 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-07 18:30:33.190 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject) in 2.6206ms
+2025-01-07 18:30:33.192 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:30:33.195 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/StudentManager/44444444 - 200 null text/plain; charset=utf-8 16.7386ms
+2025-01-07 18:33:15.439 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 394
+2025-01-07 18:33:15.445 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:33:15.447 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:33:15.450 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 0.8678ms
+2025-01-07 18:33:15.452 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:33:15.454 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentAlradyExsistException: The student with Id 44444444 aleady exsist
+   at GradeDO.Students.AddStudent(Student student) in H:\Server\Project\GradeDAL\GradeDO\Students.cs:line 24
+   at StudentsMarksProject.Controllers.StudentManagerController.Post(M_Students _student) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\StudentManagerController.cs:line 37
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.<>c__DisplayClass33_0.<WrapVoidMethod>b__0(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.VoidResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 18:33:15.462 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 500 null text/plain; charset=utf-8 22.2948ms
+2025-01-07 18:33:19.136 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/StudentManager/44444444 - null null
+2025-01-07 18:33:19.144 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:33:19.146 +02:00 [INF] Route matched with {action = "GetStudent", controller = "StudentManager"}. Executing controller action with signature System.String GetStudent(System.String) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:33:19.149 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-07 18:33:19.150 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject) in 1.4461ms
+2025-01-07 18:33:19.152 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.GetStudent (StudentsMarksProject)'
+2025-01-07 18:33:19.154 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/StudentManager/44444444 - 200 null text/plain; charset=utf-8 17.6705ms
+2025-01-07 18:33:30.347 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7185/api/StudentManager - application/json 394
+2025-01-07 18:33:30.350 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:33:30.354 +02:00 [INF] Route matched with {action = "Post", controller = "StudentManager"}. Executing controller action with signature Void Post(StudentsMarksProject.Modules.M_Students) on controller StudentsMarksProject.Controllers.StudentManagerController (StudentsMarksProject).
+2025-01-07 18:33:30.358 +02:00 [INF] Executed action StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject) in 0.7465ms
+2025-01-07 18:33:30.361 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.StudentManagerController.Post (StudentsMarksProject)'
+2025-01-07 18:33:30.362 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentAlradyExsistException: The student with Id 44444444 aleady exsist
+   at GradeDO.Students.AddStudent(Student student) in H:\Server\Project\GradeDAL\GradeDO\Students.cs:line 24
+   at StudentsMarksProject.Controllers.StudentManagerController.Post(M_Students _student) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\StudentManagerController.cs:line 37
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.<>c__DisplayClass33_0.<WrapVoidMethod>b__0(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.VoidResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 18:33:30.369 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7185/api/StudentManager - 500 null text/plain; charset=utf-8 22.6408ms
+2025-01-07 18:37:11.202 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:37:11.220 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 17.7931ms
+2025-01-07 18:37:11.228 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:37:11.228 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:37:11.228 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:37:11.232 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 4.5247ms
+2025-01-07 18:37:11.234 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 6.7651ms
+2025-01-07 18:37:11.256 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.4803ms
+2025-01-07 18:37:11.384 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:37:11.397 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.6111ms
+2025-01-07 18:57:57.240 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 18:57:57.276 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 18:57:57.279 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 18:57:57.282 +02:00 [INF] Hosting environment: Development
+2025-01-07 18:57:57.284 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 18:57:57.329 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:57:57.472 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 143.488ms
+2025-01-07 18:57:57.476 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:57:57.476 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:57:57.479 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:57:57.483 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 7.0203ms
+2025-01-07 18:57:57.489 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.1266ms
+2025-01-07 18:57:57.513 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.0247ms
+2025-01-07 18:57:57.633 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:57:57.745 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 111.1484ms
+2025-01-07 18:58:19.124 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=1 - null null
+2025-01-07 18:58:19.134 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 18:58:19.151 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 18:58:19.172 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 15.3667ms
+2025-01-07 18:58:19.175 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 18:58:19.178 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 1 not exsist
+   at StudentsMarksProject.Services.PasswordManager.CheackPasswordMarnager(String password, String id) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Services\PasswordManager.cs:line 27
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade(String studentId, String pass) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 35
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 18:58:19.203 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=1 - 500 null text/plain; charset=utf-8 79.0966ms
+2025-01-07 18:58:44.457 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:58:44.480 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 22.5468ms
+2025-01-07 18:58:44.490 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:58:44.490 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:58:44.490 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:58:44.496 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 5.9822ms
+2025-01-07 18:58:44.501 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 10.9808ms
+2025-01-07 18:58:44.516 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.6141ms
+2025-01-07 18:58:44.675 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:58:44.687 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.0929ms
+2025-01-07 18:58:47.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:58:47.321 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 7.556ms
+2025-01-07 18:58:47.327 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:58:47.327 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:58:47.328 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:58:47.330 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 2.3145ms
+2025-01-07 18:58:47.333 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 5.9342ms
+2025-01-07 18:58:47.358 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.6568ms
+2025-01-07 18:58:47.398 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:58:47.411 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.1244ms
+2025-01-07 18:59:00.867 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11 - null null
+2025-01-07 18:59:00.874 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 18:59:00.876 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 18:59:00.879 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 0.7455ms
+2025-01-07 18:59:00.881 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 18:59:00.883 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 11 not exsist
+   at StudentsMarksProject.Services.PasswordManager.CheackPasswordMarnager(String password, String id) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Services\PasswordManager.cs:line 27
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade(String studentId, String pass) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 35
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 18:59:00.890 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=11 - 500 null text/plain; charset=utf-8 23.6013ms
+2025-01-07 18:59:52.736 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 18:59:52.752 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 15.8665ms
+2025-01-07 18:59:52.760 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 18:59:52.760 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 18:59:52.761 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 18:59:52.764 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 3.5623ms
+2025-01-07 18:59:52.766 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 5.7923ms
+2025-01-07 18:59:52.794 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.7622ms
+2025-01-07 18:59:52.832 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 18:59:52.838 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.337ms
+2025-01-07 19:00:16.613 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=1 - null null
+2025-01-07 19:00:16.617 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 19:00:16.619 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 19:00:16.624 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 0.3574ms
+2025-01-07 19:00:16.626 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 19:00:16.628 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 1 not exsist
+   at StudentsMarksProject.Services.PasswordManager.CheackPasswordMarnager(String password, String id) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Services\PasswordManager.cs:line 27
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade(String studentId, String pass) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 35
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 19:00:16.635 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=1 - 500 null text/plain; charset=utf-8 22.1018ms
+2025-01-07 19:03:20.553 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 19:03:20.586 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 19:03:20.591 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 19:03:20.592 +02:00 [INF] Hosting environment: Development
+2025-01-07 19:03:20.594 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 19:03:20.729 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 19:03:20.878 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 149.3547ms
+2025-01-07 19:03:20.879 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 19:03:20.879 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 19:03:20.879 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 19:03:20.892 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 12.7455ms
+2025-01-07 19:03:20.899 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 19.6596ms
+2025-01-07 19:03:20.918 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.1021ms
+2025-01-07 19:03:20.976 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 19:03:21.097 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 120.9536ms
+2025-01-07 19:03:40.843 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=1 - null null
+2025-01-07 19:03:40.854 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 19:03:40.872 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 19:03:40.892 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 15.4129ms
+2025-01-07 19:03:40.897 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 19:03:40.901 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 1 not exsist
+   at StudentsMarksProject.Services.PasswordManager.CheackPasswordMarnager(String password, String id) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Services\PasswordManager.cs:line 27
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade(String studentId, String pass) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 35
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 19:03:40.924 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=1 - 500 null text/plain; charset=utf-8 80.3801ms
+2025-01-07 19:04:29.115 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=1&pass=11111111 - null null
+2025-01-07 19:04:29.121 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 19:04:29.125 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 19:04:29.129 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 0.9008ms
+2025-01-07 19:04:29.131 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 19:04:29.133 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.PasswordNotExsistException: The password 11111111 is incorrect
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade(String studentId, String pass) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 41
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 19:04:29.141 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=1&pass=11111111 - 500 null text/plain; charset=utf-8 25.4758ms
+2025-01-07 19:06:10.913 +02:00 [INF] Now listening on: https://localhost:7185
+2025-01-07 19:06:10.955 +02:00 [INF] Now listening on: http://localhost:5050
+2025-01-07 19:06:10.960 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-07 19:06:10.962 +02:00 [INF] Hosting environment: Development
+2025-01-07 19:06:10.964 +02:00 [INF] Content root path: H:\Server\Project\StudentsMarksProject\StudentsMarksProject
+2025-01-07 19:06:11.044 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 19:06:11.207 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 163.4291ms
+2025-01-07 19:06:11.209 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 19:06:11.209 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 19:06:11.209 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 19:06:11.223 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 13.4348ms
+2025-01-07 19:06:11.226 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 17.1194ms
+2025-01-07 19:06:11.243 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.8883ms
+2025-01-07 19:06:11.308 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 19:06:11.424 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 116.5802ms
+2025-01-07 19:09:18.136 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-01-07 19:09:18.153 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 16.8121ms
+2025-01-07 19:09:18.162 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-07 19:09:18.162 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.js - null null
+2025-01-07 19:09:18.162 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2025-01-07 19:09:18.166 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 3.3862ms
+2025-01-07 19:09:18.168 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.js - 200 null application/javascript;charset=utf-8 5.241ms
+2025-01-07 19:09:18.187 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 24.0025ms
+2025-01-07 19:09:18.228 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2025-01-07 19:09:18.245 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.0034ms
+2025-01-07 19:09:36.044 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnTestGrade?studentId=11111111&pass=1 - null null
+2025-01-07 19:09:36.053 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject)'
+2025-01-07 19:09:36.069 +02:00 [INF] Route matched with {action = "ReturnGradeTets", controller = "ShowGrade"}. Executing controller action with signature Double ReturnGradeTets(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 19:09:36.091 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject) in 15.3559ms
+2025-01-07 19:09:36.094 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets (StudentsMarksProject)'
+2025-01-07 19:09:36.098 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.PasswordNotExsistException: The password 1 is incorrect
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnGradeTets(String studentId, String pass) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 64
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 19:09:36.125 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnTestGrade?studentId=11111111&pass=1 - 500 null text/plain; charset=utf-8 80.8167ms
+2025-01-07 19:10:43.671 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=1 - null null
+2025-01-07 19:10:43.680 +02:00 [INF] Executing endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 19:10:43.685 +02:00 [INF] Route matched with {action = "ReturnLastGrade", controller = "ShowGrade"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Double] ReturnLastGrade(System.String, System.String) on controller StudentsMarksProject.Controllers.ShowGradeController (StudentsMarksProject).
+2025-01-07 19:10:43.688 +02:00 [INF] Executed action StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject) in 0.7882ms
+2025-01-07 19:10:43.689 +02:00 [INF] Executed endpoint 'StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade (StudentsMarksProject)'
+2025-01-07 19:10:43.691 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.PasswordNotExsistException: The password 1 is incorrect
+   at StudentsMarksProject.Controllers.ShowGradeController.ReturnLastGrade(String studentId, String pass) in H:\Server\Project\StudentsMarksProject\StudentsMarksProject\Controllers\ShowGradeController.cs:line 41
+   at lambda_method4(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-07 19:10:43.698 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/ShowGrade/ReturnLastGrad?studentId=11111111&pass=1 - 500 null text/plain; charset=utf-8 27.1823ms

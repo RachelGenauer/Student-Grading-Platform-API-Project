@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\DALProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3943D72-9DA2-45FE-A94B-0D5ED037C917}|StudenlsDAL\\StudenlsDAL.csproj|c:\\users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\dalproject\\studenlsdal\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3943D72-9DA2-45FE-A94B-0D5ED037C917}|StudenlsDAL\\StudenlsDAL.csproj|solutionrelative:studenlsdal\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D50F13-1915-4DAE-B374-0F96B2A7C4DC}|DALProject\\DALProject.csproj|c:\\users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\dalproject\\dalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D50F13-1915-4DAE-B374-0F96B2A7C4DC}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3943D72-9DA2-45FE-A94B-0D5ED037C917}|StudenlsDAL\\StudenlsDAL.csproj|c:\\users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\dalproject\\studenlsdal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3943D72-9DA2-45FE-A94B-0D5ED037C917}|StudenlsDAL\\StudenlsDAL.csproj|solutionrelative:studenlsdal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\DALProject\\StudenlsDAL\\Grade.cs",
+              "RelativeDocumentMoniker": "StudenlsDAL\\Grade.cs",
+              "ToolTip": "C:\\Users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\DALProject\\StudenlsDAL\\Grade.cs",
+              "RelativeToolTip": "StudenlsDAL\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:51:00.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\DALProject\\StudenlsDAL\\Class1.cs",
+              "RelativeDocumentMoniker": "StudenlsDAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\DALProject\\StudenlsDAL\\Class1.cs",
+              "RelativeToolTip": "StudenlsDAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:50:49.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\DALProject\\DALProject\\Program.cs",
+              "RelativeDocumentMoniker": "DALProject\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D6\u05D9\u05D9\u05D1\u05DC\u05D3 \u05D7\u05D3\u05D5\u05D4\\source\\repos\\DALProject\\DALProject\\Program.cs",
+              "RelativeToolTip": "DALProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:50:05.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

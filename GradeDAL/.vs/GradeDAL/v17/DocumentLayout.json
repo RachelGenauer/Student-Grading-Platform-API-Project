@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D8E911-0098-4367-A79C-61104144B9A9}|GradeDAL\\GradeDAL.csproj|e:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D8E911-0098-4367-A79C-61104144B9A9}|GradeDAL\\GradeDAL.csproj|solutionrelative:gradedal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|e:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedo\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|e:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|e:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedo\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|e:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedo\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|e:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedo\\gradedo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\gradedo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|e:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\gradedal\\gradedo\\exceptions\\studentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F427DA5-AB6B-479B-B67F-1E6A4833FA4B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\exceptions\\studentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradeDO.csproj",
+              "DocumentMoniker": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\GradeDO.csproj",
+              "RelativeDocumentMoniker": "GradeDO\\GradeDO.csproj",
+              "ToolTip": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\GradeDO.csproj",
+              "RelativeToolTip": "GradeDO\\GradeDO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T13:24:21.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentException.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Exceptions\\StudentException.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Exceptions\\StudentException.cs",
+              "ToolTip": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Exceptions\\StudentException.cs",
+              "RelativeToolTip": "GradeDO\\Exceptions\\StudentException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:02:20.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\DataSource.cs",
+              "RelativeDocumentMoniker": "GradeDO\\DataSource.cs",
+              "ToolTip": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\DataSource.cs",
+              "RelativeToolTip": "GradeDO\\DataSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:07:45.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Students.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Students.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Students.cs",
+              "ToolTip": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Students.cs",
+              "RelativeToolTip": "GradeDO\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:07:12.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Student.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Student.cs",
+              "ToolTip": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Student.cs",
+              "RelativeToolTip": "GradeDO\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:59:36.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Grade.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Grade.cs",
+              "ToolTip": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDO\\Grade.cs",
+              "RelativeToolTip": "GradeDO\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:52:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDAL\\Program.cs",
+              "RelativeDocumentMoniker": "GradeDAL\\Program.cs",
+              "ToolTip": "E:\\\u05E1\u05E8\u05D1\u05E8\\\u05E7\u05D1\u05D5\u05E6\u05D4 2\\\u05E1\u05D9\u05DB\u05D5\u05DD\\GradeDAL\\GradeDAL\\Program.cs",
+              "RelativeToolTip": "GradeDAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:34:16.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

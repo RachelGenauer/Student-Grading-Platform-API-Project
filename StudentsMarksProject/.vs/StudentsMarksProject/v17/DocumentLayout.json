@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Server\\Project\\StudentsMarksProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\controllers\\showgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\controllers\\showgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\controllers\\grademanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\controllers\\grademanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\controllers\\studentmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\controllers\\studentmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\services\\grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\services\\grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1ECB8-F01E-45D4-8BEA-C9B419FB81C0}|..\\GradeDAL\\GradeDO\\GradeDO.csproj|h:\\server\\project\\gradedal\\gradedo\\exceptions\\studentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1ECB8-F01E-45D4-8BEA-C9B419FB81C0}|..\\GradeDAL\\GradeDO\\GradeDO.csproj|h:\\server\\project\\gradedal\\gradedo\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\services\\igrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\services\\igrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\configuration1\\percentageofmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\configuration1\\percentageofmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1ECB8-F01E-45D4-8BEA-C9B419FB81C0}|..\\GradeDAL\\GradeDO\\GradeDO.csproj|h:\\server\\project\\gradedal\\gradedo\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\configuration1\\teachersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\configuration1\\teachersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1ECB8-F01E-45D4-8BEA-C9B419FB81C0}|..\\GradeDAL\\GradeDO\\GradeDO.csproj|h:\\server\\project\\gradedal\\gradedo\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1ECB8-F01E-45D4-8BEA-C9B419FB81C0}|..\\GradeDAL\\GradeDO\\GradeDO.csproj|h:\\server\\project\\gradedal\\gradedo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1ECB8-F01E-45D4-8BEA-C9B419FB81C0}|..\\GradeDAL\\GradeDO\\GradeDO.csproj|h:\\server\\project\\gradedal\\gradedo\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\modules\\m_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\modules\\m_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\modules\\m_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\modules\\m_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\modules\\m_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\modules\\m_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\studentsmarksproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\studentsmarksproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\services\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\services\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|h:\\server\\project\\studentsmarksproject\\studentsmarksproject\\services\\ipasswordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501A9CE0-2E64-47CB-B232-7FB20A48B040}|StudentsMarksProject\\StudentsMarksProject.csproj|solutionrelative:studentsmarksproject\\services\\ipasswordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradeManager.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Services\\GradeManager.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Services\\GradeManager.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Services\\GradeManager.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Services\\GradeManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:24:30.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\appsettings.Development.json",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\appsettings.Development.json",
+              "RelativeToolTip": "StudentsMarksProject\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T13:25:47.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeManagerController.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Controllers\\GradeManagerController.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Controllers\\GradeManagerController.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Controllers\\GradeManagerController.cs*",
+              "RelativeToolTip": "StudentsMarksProject\\Controllers\\GradeManagerController.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:47:39.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowGradeController.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Controllers\\ShowGradeController.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Controllers\\ShowGradeController.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Controllers\\ShowGradeController.cs*",
+              "RelativeToolTip": "StudentsMarksProject\\Controllers\\ShowGradeController.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:56:34.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGradeManager.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Services\\IGradeManager.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Services\\IGradeManager.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Services\\IGradeManager.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Services\\IGradeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:52:42.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Program.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Program.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:48:05.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\GradeDAL\\GradeDO\\DataSource.cs",
+              "RelativeDocumentMoniker": "..\\GradeDAL\\GradeDO\\DataSource.cs",
+              "ToolTip": "H:\\Server\\Project\\GradeDAL\\GradeDO\\DataSource.cs",
+              "RelativeToolTip": "..\\GradeDAL\\GradeDO\\DataSource.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:55:58.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManagerController.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Controllers\\StudentManagerController.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Controllers\\StudentManagerController.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Controllers\\StudentManagerController.cs*",
+              "RelativeToolTip": "StudentsMarksProject\\Controllers\\StudentManagerController.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:55:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentException.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\GradeDAL\\GradeDO\\Exceptions\\StudentException.cs",
+              "RelativeDocumentMoniker": "..\\GradeDAL\\GradeDO\\Exceptions\\StudentException.cs",
+              "ToolTip": "H:\\Server\\Project\\GradeDAL\\GradeDO\\Exceptions\\StudentException.cs",
+              "RelativeToolTip": "..\\GradeDAL\\GradeDO\\Exceptions\\StudentException.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:58:14.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\GradeDAL\\GradeDO\\Grade.cs",
+              "RelativeDocumentMoniker": "..\\GradeDAL\\GradeDO\\Grade.cs",
+              "ToolTip": "H:\\Server\\Project\\GradeDAL\\GradeDO\\Grade.cs",
+              "RelativeToolTip": "..\\GradeDAL\\GradeDO\\Grade.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:56:01.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PercentageOfMarks.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Configuration1\\PercentageOfMarks.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Configuration1\\PercentageOfMarks.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Configuration1\\PercentageOfMarks.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Configuration1\\PercentageOfMarks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:08:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Properties\\launchSettings.json",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentsMarksProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T11:24:50.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeachersDetails.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Configuration1\\TeachersDetails.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Configuration1\\TeachersDetails.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Configuration1\\TeachersDetails.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Configuration1\\TeachersDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:45:36.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\GradeDAL\\GradeDO\\Student.cs",
+              "RelativeDocumentMoniker": "..\\GradeDAL\\GradeDO\\Student.cs",
+              "ToolTip": "H:\\Server\\Project\\GradeDAL\\GradeDO\\Student.cs",
+              "RelativeToolTip": "..\\GradeDAL\\GradeDO\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:56:05.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Students.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\GradeDAL\\GradeDO\\Students.cs",
+              "RelativeDocumentMoniker": "..\\GradeDAL\\GradeDO\\Students.cs",
+              "ToolTip": "H:\\Server\\Project\\GradeDAL\\GradeDO\\Students.cs",
+              "RelativeToolTip": "..\\GradeDAL\\GradeDO\\Students.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:56:11.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudents.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\GradeDAL\\GradeDO\\IStudents.cs",
+              "RelativeDocumentMoniker": "..\\GradeDAL\\GradeDO\\IStudents.cs",
+              "ToolTip": "H:\\Server\\Project\\GradeDAL\\GradeDO\\IStudents.cs",
+              "RelativeToolTip": "..\\GradeDAL\\GradeDO\\IStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:05:07.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "M_Grade.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Modules\\M_Grade.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Modules\\M_Grade.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Modules\\M_Grade.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Modules\\M_Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:53:11.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "M_Students.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Modules\\M_Students.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Modules\\M_Students.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Modules\\M_Students.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Modules\\M_Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:53:40.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "M_List.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Modules\\M_List.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Modules\\M_List.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Modules\\M_List.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Modules\\M_List.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:53:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\appsettings.json",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\appsettings.json",
+              "RelativeToolTip": "StudentsMarksProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T13:25:40.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentsMarksProject.csproj",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\StudentsMarksProject.csproj",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\StudentsMarksProject.csproj",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\StudentsMarksProject.csproj",
+              "RelativeToolTip": "StudentsMarksProject\\StudentsMarksProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T12:58:23.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPasswordManager.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Services\\IPasswordManager.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Services\\IPasswordManager.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Services\\IPasswordManager.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Services\\IPasswordManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:53:17.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PasswordManager.cs",
+              "DocumentMoniker": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Services\\PasswordManager.cs",
+              "RelativeDocumentMoniker": "StudentsMarksProject\\Services\\PasswordManager.cs",
+              "ToolTip": "H:\\Server\\Project\\StudentsMarksProject\\StudentsMarksProject\\Services\\PasswordManager.cs",
+              "RelativeToolTip": "StudentsMarksProject\\Services\\PasswordManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:51:57.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
