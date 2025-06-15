@@ -1,58 +1,57 @@
 # 🎓 Student Grading Platform API
 
-A clean and scalable ASP.NET Core Web API system for managing student grades and exam scores.  
-Built as part of a full backend system simulation for an educational environment — with a focus on architecture, validation, modularity, and secure data handling.
+A structured and scalable ASP.NET Core Web API for managing student grades in an educational setting.  
+Built with clean architecture, secure access, and dynamic business logic — simulating a real-world backend system.
 
-> 💼 This project demonstrates my skills in backend development using .NET Core, layered architecture, model validation, dependency injection, logging, and secure API design.
-
----
-
-## 📌 Key Highlights
-
-- 🔐 Secure teacher & student login system
-- 🧠 Smart grade management with dynamic weights from configuration
-- 📈 Final grade calculation based on custom logic and `appsettings.json`
-- 🧩 Exception handling using custom exception classes
-- 📂 Clean architecture: DAL, BL, Models, Services
-- 📄 Fully documented and testable with Swagger/Postman
-- 🪵 Advanced logging: Console + file logging per action and error
+> 💼 This project showcases my skills in backend development, clean code, API design, model validation, and system thinking with .NET Core.
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Overview
 
-| Layer        | Technologies                          |
-|--------------|----------------------------------------|
-| Language     | C#                                     |
-| Backend      | ASP.NET Core Web API (.NET 6)          |
-| Architecture | Layered: API, Services, Class Library  |
-| Validation   | Data Annotations + Manual Checks       |
-| Logging      | Console + File logs                    |
-| Configuration| `appsettings.json`                     |
-| Testing      | Swagger / Postman                      |
+A role-based grading system where teachers can manage students and their grades, while students can securely view personal scores and class averages.
 
----
+### 👩‍🏫 Teacher Features
 
-## 🧪 What I Built
+- Add, update, and delete students  
+- Assign or update grades per student or exercise  
+- View all student records with their scores  
+- Automatically calculate final grades based on configurable weights
 
-### 👩‍🏫 For Teachers
+### 👩‍🎓 Student Features
 
-- Create / Edit / Delete students  
-- Assign grades to multiple students by exercise code  
-- Update specific scores  
-- View student records and grades  
-- Calculate final grades dynamically
-
-### 👩‍🎓 For Students
-
-- Login using ID + password  
+- Secure login using ID and password  
 - View grades per task or exam  
-- See class average per exercise  
-- View their own final weighted score  
+- See class average for each task  
+- View personal final grade based on weighted scores
 
 ---
 
-## 🧱 System Design
+## 🛠 Tech Stack
 
-This project follows a **modular and scalable structure**:
+- C# / ASP.NET Core Web API (.NET 6)  
+- Layered architecture: Controllers, Services, Data Models  
+- Dependency Injection  
+- Custom Exceptions & Logging (Console + File)  
+- Swagger / Postman for API testing  
+- Configuration via `appsettings.json` (without hardcoding logic)
 
+---
+
+## 🧱 Architecture Highlights
+
+- Separation of concerns between API, logic, and data  
+- Reusable models and DTOs  
+- Centralized configuration for credentials and grade logic  
+- Defensive programming with custom exceptions  
+- Extensive logging for both actions and errors
+
+---
+
+## 🚀 Run the Project
+
+```bash
+git clone https://github.com/RachelGenauer/Student-Grading-Platform-API-Project.git
+cd Student-Grading-Platform-API-Project
+dotnet build
+dotnet run
